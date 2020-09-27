@@ -1,0 +1,26 @@
+title: Kenny2
+tags: 
+colorID: 0
+position:
+---
+<<if !$visitKenny2>>
+    Kenny: Dude I've always wanted to see the pyramids. 
+    You: They're pretty sick. 
+    Kenny: Can you take my pic? Make sure you get me smiling!
+    <<set $visitKenny2 to true>>
+<<else>>
+    Kenny: Make sure I'm smiling in my pic, okay?
+<<endif>>
+
+
+
+===
+
+title: Kenny2.Exit
+tags: 
+colorID: 6
+position: 211,417
+---
+
+===
+

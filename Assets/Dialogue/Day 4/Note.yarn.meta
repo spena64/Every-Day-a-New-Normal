@@ -1,0 +1,46 @@
+fileFormatVersion: 2
+guid: 32701087bbd3741438d5d872f27e62ae
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - Cat-Cat-0
+  - Cat-Cat-1
+  - Cat-Cat-2
+  - Cat-Cat-3
+  - Cat-Cat-4
+  - Cat-catnode-5
+  - Cat-catnode-6
+  - Cat-catnode-7
+  - Cat-catnode-8
+  - Cat-catnode-9
+  - Cat-catnode-10
+  - Cat-catnode-11
+  - Cat-catnode-12
+  - Cat-catnode-13
+  - Cat-catnode-14
+  - Cat-catnode-15
+  - Cat-catnode-16
+  - Cat-catnode-17
+  - Cat-catnode-18
+  - Cat-catnode-19
+  - Cat-catnode-20
+  - Cat-catnode-21
+  - Cat-catnode-22
+  - Cat-catnode-23
+  - Cat-catnode-24
+  - Cat-catnode-25
+  - Cat-catnode-26
+  - Cat-catnode-27
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 46180364d0fdcd24fb05e1db4ef8fc00,
+    type: 3}
+  localizations: []

@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: 0d21a0eb00753af41a2dbeab3c96ed49
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - Roommate3-Roommate-0
+  - Roommate3-Roommate-1
+  - Roommate3-Roommate-2
+  - Roommate3-Roommate-3
+  - Roommate3-Roommate-4
+  - Roommate3-Roommate-5
+  - Roommate3-Roommate-6
+  - Roommate3-Roommate-7
+  - Roommate3-Roommate-8
+  - Roommate3-Roommate-9
+  - Roommate3-Roommate-10
+  - Roommate3-Roommate-11
+  - Roommate3-Roommate-12
+  - Roommate3-Roommate-13
+  - Roommate3-Roommate-14
+  - Roommate3-Roommate-15
+  - Roommate3-Roommate-16
+  - Roommate3-Roommate-17
+  - Roommate3-Roommate-18
+  - Roommate3-Roommate-19
+  - Roommate3-Roommate-20
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

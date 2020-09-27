@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ff88c558f57158040afe50f71630d5c8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - Leehe-Leehe-0
+  - Leehe-Leehe-1
+  - Leehe-Leehe-2
+  - Leehe-Leehe-3
+  - Leehe-Leehe-4
+  - Leehe-Leehe-5
+  - Leehe-Leehe-6
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

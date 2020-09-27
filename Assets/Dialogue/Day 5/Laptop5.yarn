@@ -1,0 +1,21 @@
+title: Laptop5
+tags: 
+colorID: 0
+position: 721,130
+---
+<<if visited("Laptop5") is false>>
+    You: Lets see whats on the news...
+    BREAKING NEWS
+    America's awful economy in the first quarter was even worse than we thought
+    As death toll nears 100,000, some Americans break from social distancing during holiday weekend
+    How George Floyd Was Killed in Police Custody
+    Journalists covering protests face assault and arrest
+    <<set $news_read to true>>
+<<else>>
+    America's awful economy in the first quarter was even worse than we thought
+    As death toll nears 100,000, some Americans break from social distancing during holiday weekend
+    How George Floyd Was Killed in Police Custody
+    Journalists covering protests face assault and arrest
+<<endif>>
+
+===

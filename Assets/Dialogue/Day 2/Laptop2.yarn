@@ -1,0 +1,21 @@
+title: Laptop2
+tags: 
+colorID: 0
+position: 721,130
+---
+<<if visited("Laptop2") is false>>
+    You: Lets see whats on the news...
+    BREAKING NEWS
+    A plague of locusts has descended on East Africa. Climate change may be to blame.
+    Trump impeachment: president acquitted on both articles
+    US Reports First Death From COVID-19, in Washington State
+
+    <<set $news_read to true>>
+<<else>>
+    A plague of locusts has descended on East Africa. Climate change may be to blame.
+    Trump impeachment: president acquitted on both articles
+    US Reports First Death From COVID-19, in Washington State
+
+<<endif>>
+
+===

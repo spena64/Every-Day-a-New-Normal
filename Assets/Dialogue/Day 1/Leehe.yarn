@@ -1,0 +1,32 @@
+title: Leehe
+tags: 
+colorID: 0
+position:
+---
+<<if !$visitClass>>
+    Leehe: OMG dude I cannot wait to go camping after class.
+    <<if $news_read>>
+        You: Yeah, it'll be a nice way to get away especially with all the bad news this month.
+    <<else>>
+        You: Same! I'm sure it'll be fun.
+    <<endif>>
+    Leehe: I just love that I'll get to start off 2020 with all my best friends <3
+    You: Well we can go meet everyone once I turn in this assignment
+    Leehe: Well hurry up!
+    <<set $visitClass to true>>
+<<else>>
+    Leehe: C'mon hurry! I want to head out soon.
+<<endif>>
+
+
+
+===
+
+title: Leehe.Exit
+tags: 
+colorID: 6
+position: 211,417
+---
+
+===
+

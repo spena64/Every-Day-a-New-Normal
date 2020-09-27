@@ -1,0 +1,21 @@
+title: Laptop3
+tags: 
+colorID: 0
+position: 721,130
+---
+<<if visited("Laptop3") is false>>
+    You: Lets see whats on the news...
+    BREAKING NEWS
+    Every U.S. Theme Park and Amusement Park Closing Due to Coronavirus
+    Are We Headed for Another Stock Market Crash?
+    Florida coronavirus cases up to 1,467 as Orange County issues stay-at-home order
+    Trump insists on congratulations while America braces for the worst
+    <<set $news_read to true>>
+<<else>>
+    Every U.S. Theme Park and Amusement Park Closing Due to Coronavirus
+    Are We Headed for Another Stock Market Crash?
+    Florida coronavirus cases up to 1,467 as Orange County issues stay-at-home order
+    Trump insists on congratulations while America braces for the worst
+<<endif>>
+
+===

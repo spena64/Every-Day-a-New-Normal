@@ -1,0 +1,19 @@
+title: Laptop1
+tags: 
+colorID: 0
+position: 721,130
+---
+<<if visited("Laptop1") is false>>
+    You: Lets see whats on the news...
+    BREAKING NEWS 
+    US drone strike ordered by Trump kills top Iranian commander in Baghdad
+    Trump was impeached December 18. Why hasn't the impeachment trial begun?    
+    'Firenados' are wreaking havoc across Australia
+    <<set $news_read to true>>
+<<else>>
+    US drone strike ordered by Trump kills top Iranian commander in Baghdad
+    Trump was impeached December 18. Why hasn't the impeachment trial begun?
+    'Firenados' are wreaking havoc across Australia
+<<endif>>
+
+===

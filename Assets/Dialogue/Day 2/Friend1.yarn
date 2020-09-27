@@ -1,0 +1,41 @@
+title: Friend1
+tags: 
+colorID: 0
+position:
+---
+<<if !$visitFriends>>
+    Steph: You made it!
+    You: Of course!
+    Kenny: We weren't sure with all this crazy covid shit. 
+    Leehe: I doubt it'll get that bad.
+    Kenny: I wouldn't.
+    Steph: What do you think?
+    <<if $news_read>> 
+        ->It'll probably blow over.
+        ->I'm a little worried. 
+        Steph: You're probably right. 
+    <<else>>
+        You: I don't really know.
+        Steph: Same.
+    <<endif>>
+    Kenny: Ready to head in?
+    <<set $visitFriends to true>>
+<<else>>
+    You: Yo.
+    Kenny: Hey. 
+    Leehe: Sup.
+    Steph: Let's head in soon, okay?
+<<endif>>
+
+
+
+===
+
+title: Friend1.Exit
+tags: 
+colorID: 6
+position: 211,417
+---
+
+===
+

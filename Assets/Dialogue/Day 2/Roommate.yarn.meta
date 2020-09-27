@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: beb1594e346debf459dee722f405de52
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs: []
+  compilationStatus: 0
+  isSuccesfullyCompiled: 0
+  compilationErrorMessage: 'Error on line 15 at position 15:token recognition error
+    at: ''&p''
+
+'
+  baseLanguage: {instanceID: 0}
+  localizations: []

@@ -1,0 +1,52 @@
+title: Roommate3
+tags: 
+colorID: 0
+position:
+---
+<<if !$visitRoommate>>
+    Roommate: Hey.
+    You: What's up?
+    Roommate: Shit's crazy.
+    <<if $news_read>> 
+        You: Yeah. Can't believe I was just at the park last month and now it's closed. 
+        Roommate: Yeah, well. At least you still have your spring break trip. 
+        You: Yup. Non-refundable ticket.
+        Roommate: Heh.
+        <<set $tripChat to true>>
+        [[Later.|Roommate3.Exit]]
+    <<else>>
+        You: Oh, yeah?
+        Roommate: Yeah. 
+    <<endif>>
+    <<set $visitRoommate to true>>
+<<else>>
+    You: Hey.
+    <<if $news_read && !$tripChat>>
+        Roommate: Sup. Did you see?
+        You: Yeah. Can't believe I was just at the park last month and now it's closed. 
+        Roommate: Yeah, well. At least you still have your spring break trip. 
+        You: Yup. Non-refundable ticket.
+        Roommate: Heh.
+        <<set $tripChat to true>>
+        [[Later.|Roommate3.Exit]]
+    <<elseif !$news_read>>
+        Roommate: Seen the news yet?
+        You: Not yet.
+    <<else>>
+        Roommate: Sup.
+        [[Later.|Roommate3.Exit]]
+    <<endif>>
+<<endif>>
+
+
+
+===
+
+title: Roommate3.Exit
+tags: 
+colorID: 6
+position: 211,417
+---
+
+===
+

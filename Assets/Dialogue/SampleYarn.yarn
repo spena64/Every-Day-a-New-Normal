@@ -1,0 +1,54 @@
+title: JohnO
+tags: 
+colorID: 0
+position:
+---
+<<if visited("JohnO") is false>>
+    John: Oh hey guys! I see you've found the first layer of Parkwide Systems cubicles.
+    John: My name is John O'Gara and I'm the RI for fiber.
+<<else>>
+    Player: Hey.
+    John: Hi.
+<<endif>>
+
+John: I'm sure you guys have a lot going on today but don't be afraid to ask me anything.
+[[johnonode]]
+
+===
+
+title: johnonode
+tags: 
+colorID: 6
+position:
+---
+-> What is fiber?
+    John: I guess they are the metaphorical veins of the park.
+    John: We use fiber optic cables to connect our networks to our PSERs.
+    -> .. The acronyms really never end huh.
+        John: Ha! Even I don't know them all.
+        [[johnonode]]
+    -> See you later.
+        JohnO: Glad to have you guys onboard!
+-> Why do you have a billion phones?
+    John: They're demos for an additional scope I work on.
+    You've acquired a "bucket of 2-way radios"!!!
+    -> Is that Jiminy Cricket on the bucket?
+        John: Shh.. Don't draw too much attention to it.
+        John: I used to work for a Disney contractor, so I suppose we could call that bucket one of the spoils of war.
+        John: You'll learn that many people actually go between working for Disney and Universal.
+        John: It all really depends on the project cycles.
+        [[johnonode]]
+    -> See you later.
+        JohnO: Glad to have you guys onboard!
+-> Why does that picture frame have nothing in it?
+    John: Oh that? I'm reserving it for something really special.
+    [[johnonode]]
+    -> Wow I love your Nintendo knick knacks!
+        John: Yeah, I'm quite the avid gamer. I love playing video games in my free time with my sons.
+        John: Let me know what games you guys play, I love playing some League of Legends and Valorant.
+        You've acquired "John O's Gamertag"!!!
+        [[johnonode]]
+-> See you later.
+    John: Glad to have you guys onboard!
+===
+

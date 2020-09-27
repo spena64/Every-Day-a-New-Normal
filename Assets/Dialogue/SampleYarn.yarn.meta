@@ -1,0 +1,48 @@
+fileFormatVersion: 2
+guid: 57d871619a11bc84a8df0a34653ae687
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - SampleYarn-JohnO-0
+  - SampleYarn-JohnO-1
+  - SampleYarn-JohnO-2
+  - SampleYarn-JohnO-3
+  - SampleYarn-JohnO-4
+  - SampleYarn-johnonode-5
+  - SampleYarn-johnonode-6
+  - SampleYarn-johnonode-7
+  - SampleYarn-johnonode-8
+  - SampleYarn-johnonode-9
+  - SampleYarn-johnonode-10
+  - SampleYarn-johnonode-11
+  - SampleYarn-johnonode-12
+  - SampleYarn-johnonode-13
+  - SampleYarn-johnonode-14
+  - SampleYarn-johnonode-15
+  - SampleYarn-johnonode-16
+  - SampleYarn-johnonode-17
+  - SampleYarn-johnonode-18
+  - SampleYarn-johnonode-19
+  - SampleYarn-johnonode-20
+  - SampleYarn-johnonode-21
+  - SampleYarn-johnonode-22
+  - SampleYarn-johnonode-23
+  - SampleYarn-johnonode-24
+  - SampleYarn-johnonode-25
+  - SampleYarn-johnonode-26
+  - SampleYarn-johnonode-27
+  - SampleYarn-johnonode-28
+  - SampleYarn-johnonode-29
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 57d871619a11bc84a8df0a34653ae687,
+    type: 3}
+  localizations: []

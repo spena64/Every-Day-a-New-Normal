@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1655569699a83f74eaef12ac1fc790bd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - Kenny1-Kenny1-0
+  - Kenny1-Kenny1-1
+  - Kenny1-Kenny1-2
+  - Kenny1-Kenny1-3
+  - Kenny1-Kenny1-4
+  - Kenny1-Kenny1-5
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

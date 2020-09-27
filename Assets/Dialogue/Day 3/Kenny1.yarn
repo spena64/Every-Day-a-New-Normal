@@ -1,0 +1,31 @@
+title: Kenny1
+tags: 
+colorID: 0
+position:
+---
+<<if !$visitKenny1>>
+    Kenny: Hey! Excited for our trip? 
+    <<if $news_read>>
+        You: Of course! Just a little worried about the virus. 
+        Kenny: Let's be extra careful.
+    <<else>>
+        You: You know it!
+        Kenny: Let's go!
+    <<endif>> 
+    <<set $visitKenny1 to true>>
+<<else>>
+    Kenny: Hey, let's go. Plane's boarding. 
+<<endif>>
+
+
+
+===
+
+title: Kenny1.Exit
+tags: 
+colorID: 6
+position: 211,417
+---
+
+===
+

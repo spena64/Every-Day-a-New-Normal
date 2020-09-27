@@ -1,0 +1,35 @@
+title: Roommate
+tags: 
+colorID: 0
+position:
+---
+<<if !$visitRoommate>>
+    Roommate: Good morning! Thought you'd be hungover from New Year's.
+    You: Very funny. You know I'm not 21 'til summer. I'm gonna throw a rager!
+    Roommate: Nice dude. Have you heard the news?
+    You: Nope, what's going on?
+    Roommate: See for yourself, I sent the articles to your laptop.
+    <<set $visitRoommate to true>>
+<<else>>
+    You: Hey.
+    Roommate: Sup. Did you read it yet?
+    <<if $news_read>>
+        You: Yep. That sucked.
+        [[See you later.|Roommate.Exit]]
+    <<else>>
+        You: Nope.
+    <<endif>>
+<<endif>>
+
+
+
+===
+
+title: Roommate.Exit
+tags: 
+colorID: 6
+position: 211,417
+---
+Roommate: Catch ya later.
+===
+

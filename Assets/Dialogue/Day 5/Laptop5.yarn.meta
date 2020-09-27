@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: ad2996cf62eb7e34fadac75aef6955be
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - Laptop5-Laptop5-0
+  - Laptop5-Laptop5-1
+  - Laptop5-Laptop5-2
+  - Laptop5-Laptop5-3
+  - Laptop5-Laptop5-4
+  - Laptop5-Laptop5-5
+  - Laptop5-Laptop5-6
+  - Laptop5-Laptop5-7
+  - Laptop5-Laptop5-8
+  - Laptop5-Laptop5-9
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

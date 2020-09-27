@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b7a7c8769cae41c4a9ffbb061ef68ed4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - Karen-Karen-0
+  - Karen-Karen-1
+  - Karen-Karen-2
+  - Karen-Karen-3
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

@@ -1,0 +1,22 @@
+title: Note
+tags: 
+colorID: 0
+position:
+---
+<<if !$visitNote>>
+    You: What's this? A note from my roommate?
+    Hey dude,
+    My family wanted me to head back home since shit is starting to hit the fan.
+    Sorry for the short notice, but they insisted for my safety.
+    I hope that when things get normal we can live together again :)
+    P.S. Here's a mask since I know you probably need it.
+    <<set $visitNote to true>>
+<<else>>
+    You: Well.. I guess I'll have to find someone else to cover rent..
+<<endif>>
+
+
+
+===
+
+

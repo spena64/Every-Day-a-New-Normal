@@ -1,0 +1,52 @@
+title: Roommate
+tags: 
+colorID: 0
+position:
+---
+<<if !$visitRoommate>>
+    Roommate: Morning.
+    You: Sup.
+    Roommate: Seen the news?
+    <<if $news_read>> 
+        You: Yeah. It's getting kind of crazy. 
+        Roommate: You still heading to the park today? 
+        You: Of course. I didn't pay for this annual pass for nothing.
+        Roommate: Haha, I feel that. See ya.
+        <<set $parkChat to true>>
+        [[Later.|Roommate.Exit]]
+    <<else>>
+        You: Nah, not yet.
+        Roommate: I sent you a couple more articles, if you want. 
+    <<endif>>
+    <<set $visitRoommate to true>>
+<<else>>
+    You: Yo.
+    <<if $news_read && !$parkChat>>
+        Roommate: Sup. Did you read it yet?
+        You: Yeah. It's getting kind of crazy.
+        Roommate: You still heading to the park today? 
+        You: Of course. I didn't pay for this annual pass for nothing.
+        Roommate: Haha, I feel that. See ya.
+        <<set $parkChat to true>>
+        [[Later.|Roommate.Exit]]
+    <<elseif !$news_read>>
+        Roommate: Sup. Did you read it yet?
+        You: Not yet.
+    <<else>>
+        Roommate: Sup.
+        [[Later.|Roommate.Exit]]
+    <<endif>>
+<<endif>>
+
+
+
+===
+
+title: Roommate.Exit
+tags: 
+colorID: 6
+position: 211,417
+---
+
+===
+

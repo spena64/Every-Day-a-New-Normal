@@ -1,0 +1,26 @@
+title: Camp
+tags: 
+colorID: 0
+position:
+---
+<<if !$visitCamp>>
+    Kenny: Someone get the marshmallows already! 
+    Steph: Dude I'm trying but she's eating them all!!
+    Leehe: This is my personal bag now! Get your own >:(
+    <<set $visitCamp to true>>
+<<else>>
+    Kenny: Well I'm glad I brought an extra bag now, feel free to take one.
+<<endif>>
+
+
+
+===
+
+title: Camp.Exit
+tags: 
+colorID: 6
+position: 211,417
+---
+
+===
+

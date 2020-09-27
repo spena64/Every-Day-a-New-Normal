@@ -1,0 +1,24 @@
+title: Laptop4
+tags: 
+colorID: 0
+position: 721,130
+---
+<<if visited("Laptop4") is false>>
+    You: Lets see whats on the news...
+    BREAKING NEWS
+    UFO videos have been officially released by Pentagon
+    Virus pushes US unemployment toward highest since Depression
+    Coronavirus: Confirmed global cases pass one million
+    Florida Man Accused Of Spitting On Cop, Claimed Had Coronavirus
+    Britney Spears says she accidentally burned down her home gym
+
+    <<set $news_read to true>>
+<<else>>
+    UFO videos have been officially released by Pentagon
+    Virus pushes US unemployment toward highest since Depression
+    Coronavirus: Confirmed global cases pass one million
+    Florida Man Accused Of Spitting On Cop, Claimed Had Coronavirus
+    Britney Spears says she accidentally burned down her home gym
+<<endif>>
+
+===

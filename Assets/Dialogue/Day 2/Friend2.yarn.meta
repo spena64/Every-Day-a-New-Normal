@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 0a0b9f29445f9564c8bd19a3eb2a8c00
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - Friend2-Friend2-0
+  - Friend2-Friend2-1
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 'Error on line 1 at position 1:
+
+    mismatched input
+    ''<EOF>'' expecting {ID, HASHTAG}
+
+
+
+'
+  baseLanguage: {fileID: 7128917941130120860, guid: 0a0b9f29445f9564c8bd19a3eb2a8c00,
+    type: 3}
+  localizations: []

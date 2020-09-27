@@ -1,0 +1,26 @@
+title: Karen
+tags: 
+colorID: 0
+position:
+---
+<<if !$visitKaren>>
+    Karen: Stay away!! Six feet at LEAST!
+    You: Okay, chill. 
+    Karen: And wear a mask!!
+    <<set $visitKaren to true>>
+<<else>>
+    Karen: Didn't you hear me?? STAY. BACK.
+<<endif>>
+
+
+
+===
+
+title: Karen.Exit
+tags: 
+colorID: 6
+position: 211,417
+---
+
+===
+
