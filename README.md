@@ -4,6 +4,6 @@ Every Day a New Normal is a game created by Stephanie Pena and Leehe Mahalal for
 
 This game was created for ShellHacks 2020, specifically for the sponsored Xbox Challenge, which emphasizes storytelling elements and gameplay mechanics.  
 
-Every Day a New Normal was influenced by a differnt game under a similar moniker, Every Day the Same Dream. 
+Every Day a New Normal was influenced by a different game under a similar moniker, Every Day the Same Dream. 
 
 Download and play the current build from Google Drive [here](https://drive.google.com/file/d/1dRMdFfep-zMi7PGEM5pD9Onn3oXh3xMa/view?usp=sharing). 
